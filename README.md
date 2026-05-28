@@ -217,98 +217,128 @@ Source code is not publicly distributed.
 
 # Privacy
 
-<div align="center">
-
-<a href="https://aryavl.com/privacy-policy">
-  <img src="https://img.shields.io/badge/Open-Privacy_Policy-111827?style=for-the-badge&logo=shield&logoColor=white" alt="Privacy Policy">
-</a>
-
-</div>
+<p align="center">
+  <a href="https://aryavl.com/privacy-policy">
+    <img src="https://img.shields.io/badge/Open_Privacy_Policy-111827?style=for-the-badge&logo=shield&logoColor=white">
+  </a>
+</p>
 
 ---
 
 # Quick Links
 
-<div align="center">
+<p align="center">
 
-<a href="https://app.aryavl.com">
-  <img src="https://img.shields.io/badge/Live-Preview-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
+  <a href="https://app.aryavl.com">
+    <img src="https://img.shields.io/badge/Live_Preview-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
 
-<a href="https://github.com/AryaVLcom/A.R.S.A-Audio-Resonent-Streaming-Architecture-/releases">
-  <img src="https://img.shields.io/badge/APK-Releases-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <a href="https://github.com/AryaVLcom/A.R.S.A-Audio-Resonent-Streaming-Architecture-/releases">
+    <img src="https://img.shields.io/badge/APK_Releases-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-<a href="https://aryavl.com/privacy-policy">
-  <img src="https://img.shields.io/badge/Privacy-Policy-111827?style=for-the-badge&logo=shield&logoColor=white">
-</a>
+  <a href="https://aryavl.com/privacy-policy">
+    <img src="https://img.shields.io/badge/Privacy_Policy-111827?style=for-the-badge&logo=shield&logoColor=white">
+  </a>
 
-</div>
+</p>
 
 ---
 
 # Animated Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AryaVLcom&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AryaVLcom&theme=tokyonight&no-frame=true&row=1&column=7"
+    width="100%"
+  />
 
-<br><br>
+  <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaVLcom&theme=tokyo-night&hide_border=true&area=true&custom_title=A.R.S.A%20Repository%20Activity" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AryaVLcom&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
 
-<br><br>
+  <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AryaVLcom&theme=tokyonight&hide_border=true" width="100%" />
+  <img
+    src="https://streak-stats.demolab.com?user=AryaVLcom&theme=tokyonight&hide_border=true"
+    width="100%"
+  />
 
-</div>
+</p>
 
 ---
 
 # Animated Stats
 
-<div align="center">
+<p align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AryaVLcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img
+    height="190em"
+    src="https://github-readme-stats.vercel.app/api?username=AryaVLcom&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  />
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaVLcom&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    height="190em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaVLcom&layout=compact&theme=tokyonight&hide_border=true"
+  />
 
-<br><br>
+  <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryaVLcom&theme=tokyonight" width="100%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryaVLcom&theme=tokyonight"
+    width="100%"
+  />
 
-</div>
+</p>
 
 ---
 
 # Final Sequence
 
-<div align="center">
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:2563EB&height=3" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:2563EB&height=3"
+    width="100%"
+  />
 
-<br><br>
+  <br><br>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
+  <img
+    src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder"
+  />
 
-<br><br>
+  <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=A.R.S.A&fontColor=FFFFFF&fontSize=48&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=A.R.S.A&fontColor=FFFFFF&fontSize=48&animation=fadeIn"
+  />
 
-</div>
+</p>
 
 ---
 
 # Footer
 
+<p align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=140&section=footer"
+    width="100%"
+  />
+
+</p>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=140&section=footer" width="100%" />
-
-### A.R.S.A
+## A.R.S.A
 
 Audio Resonant Streaming Architecture
 
-Built with React Native, Expo, and catastrophic sleep schedules.
+Built with React Native, Expo, and dangerous amounts of sleep deprivation.
 
 </div>
